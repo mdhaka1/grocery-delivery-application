@@ -352,7 +352,7 @@ header .shopping-cart
 {   border: 0px solid;
     display: flex;
     justify-content: center;
-    background: url(../images/1658326507295grocery/image/banner-img.jpg) no-repeat;
+    background: url(/html/images/1658326507295grocery/image/banner-img.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 
